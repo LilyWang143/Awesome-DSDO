@@ -170,7 +170,7 @@ According to the 2024 Developer Survey (Stack Overflow, 2024)(https://survey.sta
 Learning a new programming language requires long-term commitment. Building a good foundation at the very beginning and keeping up on practicing would be the key to success. Here are some suggestions for you to learn Python, along with different resources. 
 
 **If this is the first time you learn Python, I would suggest you start with the recommended book and eBM Python Bootcamp material designed by Jordan.**
-- eBM Python Bootcamp: To be released on week 4 of eBF. Stay tuned.
+- eBM Python Bootcamp: https://jordan-bruno.github.io/bootcamp/
 - Recommended Python book:
   - [Python Crash Course](https://go.exlibris.link/TpWFr087)
   - [Learn Python the hard way](https://go.exlibris.link/TpWFr087)
